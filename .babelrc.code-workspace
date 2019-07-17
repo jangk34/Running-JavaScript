@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "C:\\Script"
+		},
+		{
+			"path": "C:\\Script\\test"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Script"
+	}
+}
